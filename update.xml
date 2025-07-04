@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="daafclhppcalffbolpdpaeggffblngem">
-    <updatecheck codebase="https://raw.githubusercontent.com/ibaker1999/my-chrome-extension/f0aef9ef3d773332b00332c433acb545951b5f9c/hide_youtube_shorts_ext.crx" version="1.0" />
-  </app>
+  <app appid="daafclhppcalffbolpdpaeggffblngem">
+    <updatecheck codebase="https://raw.githubusercontent.com/ibaker1999/my-chrome-extension/40cb31b130d1f70696f8b136a9ad4f7f7e6e2ff1/hide_youtube_shorts_ext.crx" version="1.0" />
+  </app>
 </gupdate>
